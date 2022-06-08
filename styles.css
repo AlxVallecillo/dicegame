@@ -1,0 +1,35 @@
+
+  /* Main tags Styling */
+
+body{
+  background-color: #272343;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 2.6rem;
+  color: #36AE7C;
+}
+
+/* Player and Dice Styling */
+
+.dice-one, .dice-two{
+  color: inherit;
+  display: inline-block;
+  width: 15%;
+}
+
+.player1, .player2, .footer{
+font-size: 1.5rem;
+font-family: 'Indie Flower', cursive;
+}
+
+.footer{
+margin-top:4rem;
+}
+
+.footer-dice{
+ width: 1rem;
+}
+
+.player1-dice , .player2-dice{
+ width: 90%;
+}
